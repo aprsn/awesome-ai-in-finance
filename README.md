@@ -262,6 +262,7 @@ Price and Volume process with Technology Analysis Indices
 - [Edgrapi](https://edgrapi.com) - Metered REST API and hosted MCP service for SEC filings, insider trades, institutional holdings, and company fundamentals. API key required.
 - [EarningsCall](https://earningscall.biz) - API and SDKs for earnings call transcripts, audio, and presentation slides, with speaker identification and Q&A segmentation.
 - [The Stall](https://github.com/thebrierfox/the-stall) - Pay-per-call API and MCP service aggregating stock, macroeconomic, crypto, and prediction-market data from third-party sources.
+- [SiftingIO](https://sifting.io/) - Real-time market data and historical OHLCV for US stocks, forex, commodities, and crypto, with REST, live WebSocket streams, and MCP access. Free API-key plan available.
 
 #### Crypto Currencies
 
